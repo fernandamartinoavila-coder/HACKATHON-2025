@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { TextSegment, ErrorType } from '../types';
+import { TextSegment } from '../types';
 import { ERROR_COLORS, ERROR_LABELS } from '../constants';
 
 interface ReviewBoardProps {

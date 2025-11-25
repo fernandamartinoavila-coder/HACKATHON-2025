@@ -1,6 +1,6 @@
 import React from 'react';
 import { JobAd } from '../types';
-import { MapPin, Briefcase, Mail } from 'lucide-react';
+import { MapPin, Briefcase } from 'lucide-react';
 
 interface JobCardProps {
   job: JobAd;
